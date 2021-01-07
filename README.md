@@ -7,3 +7,9 @@ This is an animal shelter website for Epicodus made on 1/7/2021
 * HTML
 * CSS
 * Git
+
+
+
+#### Authors
+* Jonah Johansen
+* Daniel Adeyemi
